@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository demonstrates a production-ready multi-agent system using [Strands Agents](https://strandsagents.com/latest/), featuring:
+This repository demonstrates a system using [Strands Agents](https://strandsagents.com/latest/), featuring:
 
 - **Multi-Agent Orchestrator**: Routes user queries to specialist agents for math, programming, language, research, and general knowledge tasks.
 - **Multimodal Calendar App**: A Streamlit-based app that manages calendar events via text and image (e.g., extracting events from a photo of a fridge calendar).
