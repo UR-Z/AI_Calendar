@@ -1,0 +1,11 @@
+strands-agents>=0.1.0
+strands-agents-tools>=0.1.0
+python-dotenv>=0.19.0
+streamlit>=1.32.0
+pandas>=2.0.0
+python-dateutil>=2.8.0
+
+# Windows compatibility notes:
+# - shell and python_repl tools from strands-agents-tools may not work on Windows
+# - These tools use fcntl which is Unix/Linux only
+# - The framework will automatically detect and skip these tools on Windows 
